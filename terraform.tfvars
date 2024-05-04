@@ -1,0 +1,6 @@
+git_project_name = "app"
+git_url = "https://github.com/19946-Dresden-St/hello-world.git"
+key_pub_path = "./tutu.pub"
+key_private_path = "./tutu"
+access_key = "ACCESSKEY"
+secret_key = "SECRETKEY"
